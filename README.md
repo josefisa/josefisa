@@ -1,50 +1,50 @@
-<h1 align="center">Hi 👋, I'm Emanuel Figueroa, welcome to my profile!</h1>
-<h3 align="center">Mechanical and Software Engineer, ML enthusiast</h3>
+# Hi 👋, I'm Emanuel Figueroa, welcome to my profile!
 
-- 🔭 I’m currently working on **100 days of ML**
+## About Me
+Mechanical and Software Engineer, ML enthusiast
 
-- 🔭 I plan to learn **Dart**
+## 🔭 What I'm Up To
+- Currently working on **100 days of ML**
+- Planning to learn **Dart**
+- Sometimes post on [X/Twitter](https://x.com/josefisa1)
 
-- 👯 I’m sometimes post on [https://x.com/josefisa1](https://x.com/josefisa1)
+## ⚡ Fun Fact
+I am a Scout Boy!
 
-- ⚡ Fun fact **I am an Scout Boy!**
+## 🔧 Languages and Tools
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" title="Python" />
+</a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40" title="R" />
+</a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" title="Java" />
+</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</a>  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+</a>
+<a href="https://doc.qt.io/qtforpython-6/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="40" title="Qt" />
+</a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" title="OracleSQL" />
+</a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="matlab" width="40" height="40"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/josefisa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josefisa1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/josé-emanuel-figueroa-salgado-085871128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé-emanuel-figueroa-salgado-085871128" height="30" width="40" /></a>
-<a href="https://instagram.com/j.em.figue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j.em.figue" height="30" width="40" /></a>
-</p>
+## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=josefisa&show_icons=true&locale=en&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Existing icons replaced with Devicon versions -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  
-  <!-- New Devicon additions -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://qt.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/>
-  </a>
-  
-  <!-- Special cases (non-Devicon) -->
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josefisa&show_icons=true&locale=en&layout=compact" alt="josefisa" /></p>
+## 📫 Connect with me
+- **Twitter:** [@josefisa1](https://twitter.com/josefisa1)
+- **LinkedIn:** [José Emanuel Figueroa Salgado](https://linkedin.com/in/josé-emanuel-figueroa-salgado-085871128)
+- **Instagram:** [@j.em.figue](https://instagram.com/j.em.figue)
 
