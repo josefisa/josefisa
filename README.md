@@ -41,7 +41,7 @@ I am a Scout Boy!
 </a>
 
 ## GitHub Stats
-![Top Languages](https://ghstats.dev/api/languages?username=josefisa)
+![Top Languages](https://ghstats.dev/api/langs?username=josefisa&theme=tokyonight)
 
 ![GitHub Stats](https://ghstats.dev/api/card?username=josefisa)
 
