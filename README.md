@@ -41,7 +41,9 @@ I am a Scout Boy!
 </a>
 
 ## GitHub Stats
-![Top Languages](https://ghstats.dev/api/languages?username=josefisa&theme=tokyonight)
+![Top Languages](https://ghstats.dev/api/languages?username=josefisa)
+
+![GitHub Stats](https://ghstats.dev/api/card?username=josefisa)
 
 ## Connect with me
 - **Twitter:** [@josefisa1](https://twitter.com/josefisa1)
