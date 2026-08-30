@@ -41,8 +41,6 @@ I am a Scout Boy!
 </a>
 
 ## GitHub Stats
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=josefisa&show_icons=true&locale=en&layout=compact)
-
 ![Top Languages](https://ghstats.dev/api/languages?username=josefisa&theme=tokyonight)
 
 ## Connect with me
