@@ -1,17 +1,17 @@
-# Hi 👋, I'm Emanuel Figueroa, welcome to my profile!
+# I'm Emanuel Figueroa, welcome to my profile!
 
 ## About Me
 Mechanical and Software Engineer, ML enthusiast
 
-## 🔭 What I'm Up To
+## What I'm Up To
 - Currently working on **100 days of ML**
 - Planning to learn **Dart**
 - Sometimes post on [X/Twitter](https://x.com/josefisa1)
 
-## ⚡ Fun Fact
+## Fun Fact
 I am a Scout Boy!
 
-## 🔧 Languages and Tools
+## Languages and Tools
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" title="Python" />
 </a>
@@ -40,10 +40,10 @@ I am a Scout Boy!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="matlab" width="40" height="40"/>
 </a>
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=josefisa&show_icons=true&locale=en&layout=compact)
 
-## 📫 Connect with me
+## Connect with me
 - **Twitter:** [@josefisa1](https://twitter.com/josefisa1)
 - **LinkedIn:** [José Emanuel Figueroa Salgado](https://linkedin.com/in/josé-emanuel-figueroa-salgado-085871128)
 - **Instagram:** [@j.em.figue](https://instagram.com/j.em.figue)
